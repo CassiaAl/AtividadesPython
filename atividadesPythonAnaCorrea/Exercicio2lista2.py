@@ -1,5 +1,10 @@
 def main():
     # Solicita ao usuário para inserir o peso e a altura
+
+    print("*******************************")
+    print("Programa de area do retangulo:")
+    print("*******************************")
+
     peso = float(input("Digite o peso (em kg): \n"))
     altura = float(input("Digite a altura (em metros): \n"))
 
