@@ -1,6 +1,6 @@
-print("**************************")
-print("     Programa Python      ")
-print("**************************")
+print("*********************************")
+print("     Programa Area Retangulo     ")
+print("*********************************")
 
 base = int(input("\nInforme o numero da base : \n"))
 altura = int(input("Informe o numero da altura :\n"))
