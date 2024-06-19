@@ -2,7 +2,7 @@ def main():
     # Solicita ao usuário para inserir dois números e uma operação
 
     print("*******************************")
-    print("****** Programa de soma e subtração *******")
+    print("****** Programa de soma e subtração")
     print("*******************************")
 
     numero1 = int(input("Digite um número: \n"))
