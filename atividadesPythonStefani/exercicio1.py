@@ -1,1 +1,8 @@
-print("teste")
+print("********************************")
+print("     ÁREA DE UM RETÂNGULO      ")
+print("********************************")
+
+num1 = int(input("Digite o valor de sua base:"))
+num2 = int(input("Digite o valor da altura:"))
+
+print ("O valor da área de seu retângulo é:", num1 * num2)
