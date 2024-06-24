@@ -1,0 +1,5 @@
+print(" ")
+horas = int(input("Digite uma quantidade inteira de horas: "))
+print("A hora que será convertida em minutos é", horas)
+print(" ")
+print("As Horas em minutos é", horas*60)
