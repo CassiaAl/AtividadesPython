@@ -1,5 +1,5 @@
 print("********************************")
-print("    COTAÇÃO     ")
+print("     CÁLCULO HORAS PARA MINUTOS     ")
 print("********************************")
 
 Moeda = str(input("Informe se a conversão desejada é para dólar ou euro (escreva 1 para dólar e 2 para euro):"))
