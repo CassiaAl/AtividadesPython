@@ -1,5 +1,5 @@
 print("*********************")
-print("  Número maior que")
+print("     Número maior    ")
 print("*********************")
 
 num1 = int(input("Digite o primeiro número inteiro: \n"))
