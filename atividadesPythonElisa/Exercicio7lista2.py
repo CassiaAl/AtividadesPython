@@ -6,4 +6,4 @@ anonasc = int(input("Digite o ano de nascimento: "))
 
 anoatu = int(input("Digite o ano atual: "))
 
-print("Digite a sua idade é ",anoatu-anonasc," ano/anos")
+print("Digite a sua idade é ",anoatu-anonasc,"anos")
