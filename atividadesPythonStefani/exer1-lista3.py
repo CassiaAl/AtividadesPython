@@ -7,5 +7,5 @@ Valor = float(input("Informe o valor desejado para a conversão:"))
 
 if Moeda == 1:
     print ("A conversão de real para dólar é", Valor%5.27)
-if Moeda == 2:
+elif Moeda == 2:
     print ("A conversão de real para euro é", Valor%5.60)
