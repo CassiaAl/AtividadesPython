@@ -2,7 +2,7 @@ def main():
     # Solicita ao usuário para inserir a quantidade de horas
 
     print("*******************************")
-    print("****** Programa de area do retangulo")
+    print("****** Programa de horas para minutos:")
     print("*******************************")
 
     horas = int(input("Digite a quantidade de horas: \n"))

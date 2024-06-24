@@ -2,7 +2,7 @@ def main():
     # Solicita ao usuário para inserir o peso e a altura
 
     print("*******************************")
-    print("Programa de area do retangulo:")
+    print("Descubra o imc:")
     print("*******************************")
 
     peso = float(input("Digite o peso (em kg): \n"))
