@@ -1,0 +1,8 @@
+print(" ")
+peso = float(input("Insira o valor do Peso: "))
+altura = float(input("Insira o valor da Altura: "))
+print(" ")
+print("O Peso digitado foi", peso, "e a Altura digitada foi", altura,)
+print(" ")
+print("O resultado do IMC está sendo calculado...")
+print("O calculo do IMC é:", peso/altura**altura)
